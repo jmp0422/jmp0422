@@ -14,7 +14,7 @@
 - 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 _2023.04 ~ 2024.08_
 <br>
 
-## 💻 Project  https://github.com/harin0224/game-gather
+## 💻 Project
 - <a href="https://github.com/harin0224/game-gather">GameGather(게임 전 사전 팀 구성 채팅 프로그램) _2023.06 ~ 2024.07_</a>
 - <a href="https://github.com/MultiItFinalProject4Team/Laptellect">Laptellect(데이터마이닝을 통한 노트북 추천 및 판매 홈페이지) _2023.07 ~ 2024.08_</a>
 <br>
