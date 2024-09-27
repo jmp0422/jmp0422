@@ -8,7 +8,8 @@
      
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmp0422&count_bg=%2338A7DE&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jmp0422)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmp0422&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmp0422&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmp0422&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmp0422&layout=compact)
 
 ## 📄 Experience 
 - 멀티캠퍼스 백엔드 개발자 부트캠프(스프링) 25회차 _2023.04 ~ 2024.08_
